@@ -1,8 +1,2 @@
 # hw05-zuhengxu
-
-
-
-# Have a good day!
-
-
-
+hw05-zuhengxu created by GitHub Classroom
