@@ -3,9 +3,9 @@ hw05-zuhengxu created by GitHub Classroom
 
 # For Grader and Peer Review
 
-## Please Grade [`html.` file](https://raw.githack.com/STAT545-UBC-students/hw05-zuhengxu/master/hw05_factor_figure_management.html)
+## Please Grade [`html.`](https://raw.githack.com/STAT545-UBC-students/hw05-zuhengxu/master/hw05_factor_figure_management.html) version
 
-Since some of the `plotly` fewtures is not able to be seen in `md.` and `rmd.`, I created html by using [githack](https://raw.githack.com)
+Since some of the `plotly` fewtures is not able to be seen in `md.` and `rmd.`, I created html preview link by using [githack](https://raw.githack.com)
 
 # What you can find in this repo:
 * [html.file](https://raw.githack.com/STAT545-UBC-students/hw05-zuhengxu/master/hw05_factor_figure_management.html)
